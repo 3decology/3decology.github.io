@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 3decology's GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/3decology/3decology.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
